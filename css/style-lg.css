@@ -1,0 +1,50 @@
+html, body{
+    width: 100%;
+    margin: 0;
+}
+main{
+    padding: 0 5%;
+}
+article{
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+.center-logo{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.center-logo img{
+    width: 100%;
+    text-align: center;
+}
+.left-content{
+    display: inline-block;
+    width: 49%;
+    height: auto;
+    text-align: center;
+    margin-right: 1%;
+    vertical-align: top;
+}
+.text-section{
+    display: inline-block;
+    margin: 
+}
+.right-content{
+    display: inline-block;
+    width: 49%;
+    height: auto;
+    text-align: center;
+    margin-left: 1%;
+    
+    vertical-align: top;
+}
+.content-img{
+    width:100%;
+    height: 37vh;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+
